@@ -1,4 +1,4 @@
-<img width="1366" height="720" alt="Screenshot 2" src="https://github.com/user-attachments/assets/634837aa-2fb1-4e5c-bc7d-260ffb1e76b5" /># 🥔 Potato Leaf Disease Classification
+ 🥔 Potato Leaf Disease Classification
 
 A deep learning web application that detects diseases in potato plant leaves from a single image, using a Convolutional Neural Network (CNN) trained with TensorFlow/Keras and served through a Flask web interface.
 
