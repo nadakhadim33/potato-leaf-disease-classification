@@ -153,20 +153,15 @@ Then open your browser at: `http://127.0.0.1:5000`
 
 ## 📸 Screenshots
 
-> Add 2–3 screenshots here showing: the upload screen, a healthy-leaf prediction, and a diseased-leaf prediction.
->
-> ```markdown
-> ![Upload screen](assets/screenshot-upload.png)
-> ![Prediction result](assets/screenshot-result.png)
-> ```
+
 
 ## 🎬 Demo GIF
 
-> Add a short screen recording (5–10 seconds) showing an upload and prediction in action.
->
-> ```markdown
-> ![Demo](assets/demo.gif)
-> ```
+
+
+https://github.com/user-attachments/assets/d778111e-ae00-4e38-a492-e68cbeaf375f
+
+
 
 ---
 
